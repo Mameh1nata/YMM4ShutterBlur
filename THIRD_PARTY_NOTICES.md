@@ -1,6 +1,24 @@
+# Third-party notices
+
+This project was developed with reference to the following public examples.
+
+## YukkuriMovieMaker4PluginSamples
+
+Copyright (c) manju-summoner and contributors.
+
+Repository: https://github.com/manju-summoner/YukkuriMovieMaker4PluginSamples
+
+The project structure and public YMM4 video-effect API usage follow the official sample repository.
+
+## Afterimage
+
 MIT License
 
-Copyright (c) 2026 OpenAI and contributors
+Copyright (c) 2025 いるかぁぁ
+
+Repository: https://github.com/Dolphin-kun/Afterimage
+
+The frame-history lifetime and Direct2D bitmap-capture patterns were informed by this implementation.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
